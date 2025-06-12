@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/dhairyapatil_CV/static/css/main.ffca61f5.css",
+    "main.js": "/dhairyapatil_CV/static/js/main.820fb4b6.js",
+    "static/js/453.aa9322ff.chunk.js": "/dhairyapatil_CV/static/js/453.aa9322ff.chunk.js",
+    "static/media/DP-Profile.png": "/dhairyapatil_CV/static/media/DP-Profile.4e79f5150f314eb6486c.png",
+    "static/media/phone.png": "/dhairyapatil_CV/static/media/phone.69256d65f3b7f7e18bd6.png",
+    "static/media/location.png": "/dhairyapatil_CV/static/media/location.3894618a7424a3e7f74e.png",
+    "static/media/mail.jpg": "/dhairyapatil_CV/static/media/mail.ef69f630587d616a9f50.jpg",
+    "static/media/logo.svg": "/dhairyapatil_CV/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/dhairyapatil_CV/index.html",
+    "main.ffca61f5.css.map": "/dhairyapatil_CV/static/css/main.ffca61f5.css.map",
+    "main.820fb4b6.js.map": "/dhairyapatil_CV/static/js/main.820fb4b6.js.map",
+    "453.aa9322ff.chunk.js.map": "/dhairyapatil_CV/static/js/453.aa9322ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffca61f5.css",
+    "static/js/main.820fb4b6.js"
+  ]
+}
